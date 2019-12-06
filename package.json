@@ -1,8 +1,6 @@
 {
-  "name": "embed-map",
   "version": "0.1.0",
   "main": "Gruntfile.js",
-  "author": "YOUR NAME HERE",
   "scripts": {
     "start": "grunt default",
     "readme": "grunt readme",
@@ -12,5 +10,9 @@
     "grunt": "~0.4.5",
     "grunt-wp-i18n": "~0.5.0",
     "grunt-wp-readme-to-markdown": "~1.0.0"
-  }
+  },
+  "name": "sandbox-wordpress-plugin-mapbox-gl-js",
+  "repository": "git@github.com:kamataryo/sandbox-wordpress-plugin-mapbox-gl-js.git",
+  "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
+  "license": "GPL v2.0"
 }

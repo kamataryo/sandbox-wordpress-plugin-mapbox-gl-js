@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Embed Map
+ * Plugin Name: Sandbox WordPress Plugin Mapbox GL JS
  */
 
 function enqueue_mapbox_gl() {
